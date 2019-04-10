@@ -1,0 +1,4 @@
+﻿  GameLife.cpp
+c:\users\gabrielgborges\desktop\simulação\project1\gamelife.cpp(7): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  Project1.vcxproj -> C:\Users\gabrielgborges\Desktop\simulação\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\gabrielgborges\Desktop\simulação\Debug\Project1.pdb (Partial PDB)
